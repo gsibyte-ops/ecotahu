@@ -202,7 +202,7 @@
             // Menyesuaikan jalur action URL update berdasarkan ID produk
             document.getElementById('formEdit').action = '/produk/' + id;
         }
-git add
+
         function tutupModalEdit() { 
             document.getElementById('modalEdit').classList.add('hidden'); 
         }
